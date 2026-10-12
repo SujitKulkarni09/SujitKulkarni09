@@ -2,8 +2,6 @@
   <img src="banner.svg" width="100%" alt="Sujit Kulkarni · Investment banking operations professional · AI builder and educator">
 </p>
 
-<p align="center"><em>Curated by Sujit Kulkarni</em></p>
-
 I bring 14+ years of investment banking operations experience to practical AI. I build AI automations that solve real workflow problems, and I create free visual learning material so anyone can understand AI step by step.
 
 ---
