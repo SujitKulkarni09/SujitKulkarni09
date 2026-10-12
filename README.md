@@ -53,8 +53,10 @@ A free, searchable hub of AI guides, glossaries and interactive 3D demos.
 
 ## 🔭 Currently
 
-- 🧪 Exploring **LLM evaluation** and **agent memory**, with hands-on projects coming to this profile
-- 📚 Preparing for **Microsoft AI certifications**
+- 📚 Preparing for further **Microsoft AI certifications**
+- 🛠️ Building **agentic AI** projects, coming to this profile
+- 🎓 Certified in **LLMs, RAG, generative AI and low-code / no-code workflow automation**
+- 🔬 Exploring **how AI models work inside** (the "black box") and **AGI**
 - 🗣️ Teaching coding and AI basics to complete beginners
 
 ## 💬 Ask me about
