@@ -1,6 +1,5 @@
 # Sujit Kulkarni
 
-*Curated by Sujit Kulkarni*
 
 ### Investment banking operations professional · AI builder and educator
 
