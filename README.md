@@ -1,7 +1,8 @@
-# Sujit Kulkarni
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Sujit Kulkarni · Investment banking operations professional · AI builder and educator">
+</p>
 
-
-### Investment banking operations professional · AI builder and educator
+<p align="center"><em>Curated by Sujit Kulkarni</em></p>
 
 I bring 14+ years of investment banking operations experience to practical AI. I build AI automations that solve real workflow problems, and I create free visual learning material so anyone can understand AI step by step.
 
@@ -40,6 +41,10 @@ I bring 14+ years of investment banking operations experience to practical AI. I
 ### [AI AugMentor](https://sujitkulkarni09.github.io/sujitkulkarni.github.io) · [repo](https://github.com/SujitKulkarni09/sujitkulkarni.github.io)
 
 A free, searchable hub of AI guides, glossaries and interactive 3D demos.
+
+<a href="https://sujitkulkarni09.github.io/sujitkulkarni.github.io">
+  <img src="hub-preview.gif" width="100%" alt="Preview of the AI AugMentor hub: 3D neural background, search and tilting glass cards">
+</a>
 
 - **47 pages** across **8 categories**, from AI basics to agentic AI, RAG and harness engineering
 - Interactive and 3D visual demos that explain how AI works
